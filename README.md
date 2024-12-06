@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Thomas 👋
 
-<!--
-**thomthomthomas/thomthomthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Computer Science student** with a passion for learning and building awesome things in tech! Whether it’s coding solutions, exploring new technologies, or contributing to projects, I’m always ready for a challenge.
 
-Here are some ideas to get you started:
+## 💻 Languages & Tools
+- **Programming Languages:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Technologies and Frameworks:**  
+
+
+- **Tools:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+
+## 🌱 What I'm Currently Learning
+I’m exploring advanced concepts in **Python**, diving deeper into **JavaScript frameworks**, and refining my **C++** skills.
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+- **Email:**   
+- **LinkedIn:**  
+- **Portfolio/Website:** 
+
+## 🌟 Fun Facts
+- I love solving coding challenges!  
+
+
+Feel free to connect, collaborate, or just say hi! 😊  
